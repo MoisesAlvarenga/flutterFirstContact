@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
+My first project with Flutter.
 
 ## Getting Started
 
